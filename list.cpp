@@ -1,4 +1,4 @@
-// similar to vector
+// similar to vector..
 //  it has an additional function named push_front..
 //  internal structure is a double ll
 //  insertion take less time in list
